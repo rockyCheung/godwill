@@ -27,7 +27,7 @@ setup(
     author_email='274935730@qq.com',
     license='PSF',
     packages=find_packages(exclude=['contrib', 'docs', 'test']),
-    install_requires=['pytest>=4.3.1',],
+    install_requires=['pytest>=4.3.1','readme-renderer>=21.0'],
     package_data={
         # If any package contains *.txt or *.rst files, include them:
         '': ['*.txt', '*.rst','*.yml','*.md','LICENSE'],
