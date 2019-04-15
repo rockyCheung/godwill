@@ -1,0 +1,6 @@
+Requirement already satisfied: readme-renderer in ./venv/lib/python3.7/site-packages (24.0)
+Requirement already satisfied: docutils>=0.13.1 in ./venv/lib/python3.7/site-packages (from readme-renderer) (0.14)
+Requirement already satisfied: Pygments in ./venv/lib/python3.7/site-packages (from readme-renderer) (2.3.1)
+Requirement already satisfied: six in ./venv/lib/python3.7/site-packages (from readme-renderer) (1.12.0)
+Requirement already satisfied: bleach>=2.1.0 in ./venv/lib/python3.7/site-packages (from readme-renderer) (3.1.0)
+Requirement already satisfied: webencodings in ./venv/lib/python3.7/site-packages (from bleach>=2.1.0->readme-renderer) (0.5.1)
