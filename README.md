@@ -1,6 +1,7 @@
 # gwill
 
 [![Apache License 2](https://img.shields.io/badge/license-ASF2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![PyPI version](https://badge.fury.io/py/godwill.svg)](https://badge.fury.io/py/godwill)
 [![Build Status](https://travis-ci.org/rockyCheung/godwill.svg?branch=master)](https://travis-ci.org/rockyCheung/godwill)
 [![Coverage Status](https://coveralls.io/repos/github/rockyCheung/godwill/badge.svg?branch=master)](https://coveralls.io/github/rockyCheung/godwill?branch=master)
 [![PyPI](https://pypi.org/static/images/logo-small.6eef541e.svg)](https://pypi.org/project/godwill/)
