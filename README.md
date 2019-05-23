@@ -4,11 +4,10 @@
 [![PyPI version](https://badge.fury.io/py/godwill.svg)](https://badge.fury.io/py/godwill)
 [![Build Status](https://travis-ci.org/rockyCheung/godwill.svg?branch=master)](https://travis-ci.org/rockyCheung/godwill)
 [![Coverage Status](https://coveralls.io/repos/github/rockyCheung/godwill/badge.svg?branch=master)](https://coveralls.io/github/rockyCheung/godwill?branch=master)
-[![PyPI](https://pypi.org/static/images/logo-small.6eef541e.svg)](https://pypi.org/project/godwill/)
 
 ## gwill是什么
 
-gwill是一个占卜工具，名字的意思是"神意"，工具运用了周易64卦占卜术，即科学又简便，即使没有任何周易相关的知识储备，只要简单安装gwill，在自己的电脑上即可简单的占卜运势。
+gwill是一个占卜工具，名字的意思是"神意"，工具运用了周易64卦占卜术，即科学又简便，即使没有任何周易相关的知识储备，只要简单安装gwill，在自己的电脑上即可占卜运势。
 
 ## 周易
 易经是我国古代哲学、自然科学与社会科学相结合的一部巨著，历来被尊称中国文化的百科全书，千百年来，易经对我国的哲学、史学、文学、宗教、自然科学及社会科学都有着巨大的影响。
