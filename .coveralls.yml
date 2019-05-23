@@ -1,4 +1,4 @@
 service_name: travis-pro
 repo_token: C2Ihayi5tw2hw2SXBJ11Bfu4zi5lLTUJE
 parallel: true
-coveralls_host: https://coveralls.aperture.com
+#coveralls_host: https://coveralls.aperture.com
